@@ -41,7 +41,7 @@ const enableWinterUpdate = false
 
 
 // Text settings
-const name = "<strong>NEV</strong>ERA"
+const name = "<strong>Outer</strong>STATE"
 const underName = "ROLE<b>PLAY</b>"
 const desc = "FiveM Roleplay server featuring an extensive collection of custom scripts, maps, vehicles, unique weapons, and much more."
 
@@ -76,7 +76,7 @@ const showYoutubeVideo = false
 const enableLocalVideo = false
 
 // Local audio
-const localAudio = false
+const localAudio = true
 
 
 
